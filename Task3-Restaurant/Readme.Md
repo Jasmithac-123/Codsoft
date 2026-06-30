@@ -37,4 +37,3 @@ This project is a simple Restaurant Menu UI/UX design created using **Figma**. T
 Jasmitha C
 
 
-⭐ If you like this project, give it a star!
