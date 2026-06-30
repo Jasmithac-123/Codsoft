@@ -28,14 +28,6 @@ This project is a simple Restaurant Menu UI/UX design created using **Figma**. T
 - Consistent colors and typography
 - Beginner-friendly design
 
-## 📂 Project Structure
-
-Restaurant Menu UI
-│── README.md
-│── Restaurant_Menu.fig
-│── Screenshots/
-│ └── menu_design.png
-
 ## 🚀 How to View
 1. Open the Figma design file.
 2. Explore the restaurant menu interface.
